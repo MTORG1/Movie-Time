@@ -1,1 +1,21 @@
+{Visibility:"VISIBLE",
+  
+  tip:"Vpn ခံပီးမှ Appထဲဝင်ပေးပါ ",
 
+title:"ADM",
+
+des:"ဇတ်ကားသစ်များနေတိုင်းတင်‌ပေးနေပါသည်",
+
+ddd:"Reviewပေးရန်နိပ်ပါ",
+
+ Cancelable:"true",
+ 
+ button:"true",
+ 
+ main:"#000000",
+ 
+ out:"#FFFFFF",
+ 
+image:"https://www.dropbox.com/scl/fi/0vzcjn0jh2nyk400y1u5h/IMG_20231102_083610.jpg?rlkey=o81v4ohpxu6y4l4do8ldds1ir&dl=1",
+
+clicks:""}
